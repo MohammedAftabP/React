@@ -1,0 +1,13 @@
+.images{
+    position: relative;
+    top:100px;
+    width:50%;
+    margin: auto;
+    z-index: -1;
+}
+.images>img{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    border-radius: 1rem;
+}
